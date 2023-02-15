@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oussama Guemmar</h1>
-- 📫 How to reach me *oussama.guemmar@gmail.com*
+- 🧑‍💻 IT Student at ENSA Tangier
+- 📫 How to reach me: oussama.guemmar@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
