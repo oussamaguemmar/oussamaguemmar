@@ -3,6 +3,8 @@
 - 🧑‍💻 IT Student at ENSA Tangier
 - 📫 How to reach me: oussama.guemmar@gmail.com
 
+![Alt Text](https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oussama-guemmar-7728b91a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussama-guemmar-7728b91a4" height="30" width="40" /></a>
