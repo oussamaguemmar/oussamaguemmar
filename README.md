@@ -3,9 +3,7 @@
 - 🧑‍💻 IT Student at ENSA Tangier
 - 📫 How to reach me: oussama.guemmar@gmail.com
 
-<p align="center">
-  <img src="[demo.gif](https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif)" />
-</p>
+![](https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
