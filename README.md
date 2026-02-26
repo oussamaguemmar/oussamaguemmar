@@ -8,7 +8,7 @@
 - 📫 How to reach me: oussama.guemmar@gmail.com  
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="datadoesntlie"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhiaTBhNWlxcHgyZGVrMDdwaXRuNHducDlidGc0NWFodTQyYWlrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="datadoesntlie"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
